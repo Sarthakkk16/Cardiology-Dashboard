@@ -12,5 +12,4 @@ This project focuses on analyzing a Heart Disease dataset to uncover meaningful 
 - Smoking, hypertension, anaemia, and diabetes are most common in **51–70** age group.
 - Overall, age, kidney function, and heart efficiency are key predictors of survival.
 
-# Dashboard Link 
-![Cardiology Dashboard](https://app.powerbi.com/groups/me/reports/ac6c8a01-c63d-4c52-87f5-a41e29ab5c8b/5c7cb919f852b99a1326?experience=power-bi)
+
