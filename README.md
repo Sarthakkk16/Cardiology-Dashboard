@@ -11,3 +11,5 @@ This project focuses on analyzing a Heart Disease dataset to uncover meaningful 
 - Ejection fraction is lowest **(38.5%)** in ages **40–50**, suggesting weaker heart function.
 - Smoking, hypertension, anaemia, and diabetes are most common in **51–70** age group.
 - Overall, age, kidney function, and heart efficiency are key predictors of survival.
+
+# Dashboard Link ![](https://app.powerbi.com/links/MHFbRTVbd1?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare)
