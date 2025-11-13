@@ -13,4 +13,4 @@ This project focuses on analyzing a Heart Disease dataset to uncover meaningful 
 - Overall, age, kidney function, and heart efficiency are key predictors of survival.
 
 # Dashboard Link 
-![Cardiology Dashboard](https://app.powerbi.com/links/MHFbRTVbd1?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare)
+![Cardiology Dashboard](https://app.powerbi.com/groups/me/reports/ac6c8a01-c63d-4c52-87f5-a41e29ab5c8b/5c7cb919f852b99a1326?experience=power-bi)
